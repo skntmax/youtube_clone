@@ -1,0 +1,8 @@
+.videodiv{
+    cursor:pointer ; 
+    display:  grid;
+    justify-content: center;
+    place-items: center;
+
+     
+}
